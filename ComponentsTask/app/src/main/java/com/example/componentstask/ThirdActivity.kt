@@ -15,6 +15,7 @@ class ThirdActivity : AppCompatActivity() {
         setupFilepicker(binding.filepicker1, R.string.camera, R.drawable.camera)
         setupFilepicker(binding.filepicker2, R.string.image, R.drawable.gallery)
         setupFilepicker(binding.filepicker3, R.string.document, R.drawable.doc)
+
         setupBudgetSummary(binding.budgetsummary,R.string.income)
 
     }
