@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "301181298833",
+    "project_id": "online-cinema-11280",
+    "storage_bucket": "online-cinema-11280.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301181298833:android:4bf335c3412226a4ad7730",
+        "android_client_info": {
+          "package_name": "com.example.online_cinema"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301181298833-vt1tdj6l1biuop5l77jjphtmne78hb3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs_SFz_D7buDBhtN9tZdzE_HrIqV8n-iQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301181298833-vt1tdj6l1biuop5l77jjphtmne78hb3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301181298833:android:bb8c765c614d738ead7730",
+        "android_client_info": {
+          "package_name": "com.example.speedtrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301181298833-vt1tdj6l1biuop5l77jjphtmne78hb3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs_SFz_D7buDBhtN9tZdzE_HrIqV8n-iQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301181298833-vt1tdj6l1biuop5l77jjphtmne78hb3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
